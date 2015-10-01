@@ -1,0 +1,48 @@
+#divDroite
+{
+    
+    margin-left: 10%;
+    height: auto;
+    width:100%;
+    float: right;
+    background-color: #CFD8DF;
+    padding:5%;
+    margin-top: 3.5%;
+    
+}
+
+#navigation {
+  width: 200px;
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 15%;
+  margin-top: 50%;
+  font-size: 20px;
+}
+
+
+a:link
+{
+    text-decoration: none;
+}
+
+#thumbnailGauche
+{
+    float: left;
+    padding: 5px;
+}
+
+#ThumbInfo
+{
+    border-width: 1px;
+    border-color: #505050;
+}
+
+.border-raidus{
+	
+	box-shadow: 0px 0px 15px 4px rgba(48, 173, 194, 0.79);
+-moz-box-shadow: 0px 0px 15px 4px rgba(48, 173, 194, 0.79);
+-webkit-box-shadow: 0px 0px 15px 4px rgba(48, 173, 194, 0.79);
+}
+
